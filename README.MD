@@ -115,7 +115,17 @@ The link to the website :
 
 https://core-electronics.com.au/guides/hand-identification-raspberry-pi/
 
+So if you have any errors pop up( Which is ineveitable :( ) , look in the comment section of this website. I too faced some error when i was intializing it, but i got over with it.
+
 
 4) Now try to run the Simple-Hand-Tracker.py. If it runs without any issue, Congratulations!!. 
 
 5) Now we will try to run the other codes.
+
+6) The main code over here is the module2.py file, which contains some of the main basic codes for other .py files to run efficiently. The module.py file is present for the Simple_Hand_Tracking.py file to run.
+
+7) Try to run the code in hnd_rcg_2_try1_.py. This is the code for the project. It has some basic datasets for hand signs. Feel free to edit them.
+See I know, why didnt I code it for 2 hands. That was out of the scope of the whole project. Cmon, i am not devoting my precious time for some workshop project for a shitty certificate XD.
+
+8) I played around with chatgpt to give me codes for painting with finger and playing the classic rock paper scissor game with the computer. You can run both of them and play with them. 
+
